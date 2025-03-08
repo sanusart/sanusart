@@ -33,9 +33,4 @@ I'm a developer based in Jerusalem, Israel. You can find more about my projects 
 
 ---
 
-## Guestbook
-
-Feel free to leave a message or star this profile to show your support! ⭐️
-
----
 
